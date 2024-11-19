@@ -1,0 +1,6 @@
+https://board.herc.ws/
+https://github.com/HerculesWS/Hercules
+https://github.com/pservero/Hercules
+https://github.com/panikon/HerculesMT
+https://github.com/4144/Hercules
+https://github.com/DorianRRomig/Hercules
